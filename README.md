@@ -15,6 +15,8 @@
 8. [Контакты](#контакты)  
 
 ---
+## Заказчик
+[ecom.tech (ex. Samokat.tech)](https://samokat.tech/) 
 
 ## Описание проекта
 
