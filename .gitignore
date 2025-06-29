@@ -2,3 +2,4 @@
 /datasets
 /data
 model/model.safetensors
+.DS_Store
